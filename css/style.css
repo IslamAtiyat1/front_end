@@ -1,4 +1,12 @@
-
+body{
+    background-color:#F4F7F7;
+}
+.custom-pink3-bg {
+    background-color:#F7DEDF;
+    color:#D34449;
+    font-weight:bolder;
+    font-size: small;
+}
 .custom-pink-bg {
     background-color: #FFB6C1;
     color:#EB568F ;
@@ -17,4 +25,10 @@
     color:#FF4601;
     font-weight:bolder;
     font-size: small;
+}
+.card-text{
+    text-align: center;
+    color: #00A9EE;
+    font-weight:bolder;
+    font-size: 25pt;
 }
