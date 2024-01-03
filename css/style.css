@@ -26,11 +26,23 @@ body{
     font-weight:bolder;
     font-size: small;
 }
+.custom-blueviolet-bg {
+    background-color: #E4DCE4;
+    color:#643665;
+    font-weight:bolder;
+    font-size: small;
+}
+.custom-green-bg {
+    background-color: #E1F1D3;
+    color:#6E8759;
+    font-weight:bolder;
+    font-size: small;
+}
 .card-text{
     text-align: center;
     color: #00A9EE;
     font-weight:bolder;
-    font-size: 25pt;
+    font-size: 20pt;
 }
 .breadcrumb{
     font-size: 20pt;
