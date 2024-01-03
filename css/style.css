@@ -44,6 +44,21 @@ body{
     font-weight:bolder;
     font-size: 20pt;
 }
+.card-text-2{
+    text-align: center;
+    color: #00A9EE;
+    font-weight:bolder;
+    font-size: 15pt;
+}
 .breadcrumb{
     font-size: 20pt;
 }
+/*.card{*/
+/*    height: 470px;*/
+/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+/*}*/
+/*@media (max-width: 1400px) {*/
+/*    !* Adjust styles for small screens *!*/
+/*    .card {*/
+/*        height: auto;*/
+/*    }}*/
